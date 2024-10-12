@@ -1,4 +1,6 @@
 ![image](https://github.com/user-attachments/assets/9bb27a15-a8d9-4b85-b715-de75945c4961)
+![image](https://github.com/user-attachments/assets/0f0264d5-6db7-4a02-a96a-37ea5d247c66)
+
 
 How To View Project:
 Download Pbix file and open in Power BI desktop.
