@@ -1,3 +1,8 @@
+![image](https://github.com/user-attachments/assets/9bb27a15-a8d9-4b85-b715-de75945c4961)
+
+How To View Project:
+Download Pbix file and open in Power BI desktop.
+Cannot Host as power Bi does not allow for free users
 Summary of the project components:
 
 1. Data Transformation (using Power Query):
